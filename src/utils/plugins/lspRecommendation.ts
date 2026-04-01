@@ -372,4 +372,3 @@ export function resetIgnoredCount(): void {
   })
   logForDebugging('[lspRecommendation] Reset ignored count')
 }
-

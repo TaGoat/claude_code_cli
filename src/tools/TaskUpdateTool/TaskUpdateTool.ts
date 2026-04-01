@@ -404,4 +404,3 @@ export const TaskUpdateTool = buildTool({
     }
   },
 } satisfies ToolDef<InputSchema, Output>)
-

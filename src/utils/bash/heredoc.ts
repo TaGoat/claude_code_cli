@@ -731,4 +731,3 @@ export function restoreHeredocs(
 export function containsHeredoc(command: string): boolean {
   return HEREDOC_START_PATTERN.test(command)
 }
-

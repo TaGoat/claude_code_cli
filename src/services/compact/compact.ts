@@ -1703,4 +1703,3 @@ function shouldExcludeFromPostCompactRestore(
 
   return false
 }
-

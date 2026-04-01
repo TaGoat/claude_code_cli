@@ -125,5 +125,3 @@ export async function registerWorker(
   }
   return epoch
 }
-
-

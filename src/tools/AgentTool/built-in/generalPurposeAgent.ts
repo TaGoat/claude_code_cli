@@ -32,4 +32,3 @@ export const GENERAL_PURPOSE_AGENT: BuiltInAgentDefinition = {
   // model is intentionally omitted - uses getDefaultSubagentModel().
   getSystemPrompt: getGeneralPurposeSystemPrompt,
 }
-

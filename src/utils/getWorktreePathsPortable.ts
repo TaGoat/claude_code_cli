@@ -25,4 +25,3 @@ export async function getWorktreePathsPortable(cwd: string): Promise<string[]> {
     return []
   }
 }
-

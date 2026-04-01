@@ -298,4 +298,3 @@ export async function extractPDFPages(
     }
   }
 }
-

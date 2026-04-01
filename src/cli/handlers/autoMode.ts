@@ -168,5 +168,3 @@ function formatRulesForCritique(
     '\n\n'
   )
 }
-
-

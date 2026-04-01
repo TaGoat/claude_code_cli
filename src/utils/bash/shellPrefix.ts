@@ -26,4 +26,3 @@ export function formatShellPrefixCommand(
     return `${quote([prefix])} ${quote([command])}`
   }
 }
-

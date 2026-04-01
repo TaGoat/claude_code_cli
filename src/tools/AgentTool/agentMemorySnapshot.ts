@@ -195,4 +195,3 @@ export async function markSnapshotSynced(
 ): Promise<void> {
   await saveSyncedMeta(agentType, scope, snapshotTimestamp)
 }
-

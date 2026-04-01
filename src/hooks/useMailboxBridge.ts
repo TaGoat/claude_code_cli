@@ -19,4 +19,3 @@ export function useMailboxBridge({ isLoading, onSubmitMessage }: Props): void {
     if (msg) onSubmitMessage(msg.content)
   }, [isLoading, revision, mailbox, onSubmitMessage])
 }
-

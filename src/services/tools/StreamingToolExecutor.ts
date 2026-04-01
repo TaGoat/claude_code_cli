@@ -528,4 +528,3 @@ function markToolUseAsComplete(
     return next
   })
 }
-

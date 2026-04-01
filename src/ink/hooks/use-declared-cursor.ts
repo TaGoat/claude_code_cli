@@ -71,4 +71,3 @@ export function useDeclaredCursor({
 
   return setNode
 }
-

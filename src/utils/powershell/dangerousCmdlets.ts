@@ -183,4 +183,3 @@ export const NEVER_SUGGEST: ReadonlySet<string> = (() => {
   ])
   return new Set([...core, ...aliasesOf(core)])
 })()
-

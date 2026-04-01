@@ -263,4 +263,3 @@ function normalizeSource(
   }
   return source
 }
-

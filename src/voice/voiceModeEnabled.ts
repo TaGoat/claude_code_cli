@@ -52,4 +52,3 @@ export function hasVoiceAuth(): boolean {
 export function isVoiceModeEnabled(): boolean {
   return hasVoiceAuth() && isVoiceGrowthBookEnabled()
 }
-

@@ -1477,4 +1477,3 @@ export function getAllMemoryFilePaths(
 
   return Array.from(paths)
 }
-

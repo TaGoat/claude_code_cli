@@ -163,4 +163,3 @@ function killCaffeinate(): void {
     }
   }
 }
-

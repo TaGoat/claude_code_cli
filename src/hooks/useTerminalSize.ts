@@ -13,4 +13,3 @@ export function useTerminalSize(): TerminalSize {
 
   return size
 }
-

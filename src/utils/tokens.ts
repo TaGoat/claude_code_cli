@@ -259,4 +259,3 @@ export function tokenCountWithEstimation(messages: readonly Message[]): number {
   }
   return roughTokenCountEstimationForMessages(messages)
 }
-

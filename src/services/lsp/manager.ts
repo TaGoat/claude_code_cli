@@ -287,4 +287,3 @@ export async function shutdownLspServerManager(): Promise<void> {
     initializationGeneration++
   }
 }
-

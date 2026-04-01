@@ -270,4 +270,3 @@ async function writeFileAndFlush(
     await handle.close()
   }
 }
-

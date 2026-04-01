@@ -139,4 +139,3 @@ export function permissionModeSymbol(mode: PermissionMode): string {
 export function getModeColor(mode: PermissionMode): ModeColorKey {
   return getModeConfig(mode).color
 }
-

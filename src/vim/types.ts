@@ -197,4 +197,3 @@ export function createInitialPersistentState(): PersistentState {
     registerIsLinewise: false,
   }
 }
-

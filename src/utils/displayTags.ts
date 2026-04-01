@@ -49,4 +49,3 @@ const IDE_CONTEXT_TAGS_PATTERN =
 export function stripIdeContextTags(text: string): string {
   return text.replace(IDE_CONTEXT_TAGS_PATTERN, '').trim()
 }
-

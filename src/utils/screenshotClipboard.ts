@@ -119,4 +119,3 @@ async function copyPngToClipboard(
     message: `Screenshot to clipboard is not supported on ${platform}`,
   }
 }
-

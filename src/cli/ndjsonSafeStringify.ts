@@ -30,5 +30,3 @@ function escapeJsLineTerminators(json: string): string {
 export function ndjsonSafeStringify(value: unknown): string {
   return escapeJsLineTerminators(jsonStringify(value))
 }
-
-

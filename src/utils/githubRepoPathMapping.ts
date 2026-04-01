@@ -160,4 +160,3 @@ export function removePathFromRepo(repo: string, pathToRemove: string): void {
     `Removed ${pathToRemove} from tracked paths for repo ${repoKey}`,
   )
 }
-

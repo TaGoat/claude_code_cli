@@ -582,4 +582,3 @@ export function normalizePathForComparison(filePath: string): string {
 export function pathsEqual(path1: string, path2: string): boolean {
   return normalizePathForComparison(path1) === normalizePathForComparison(path2)
 }
-

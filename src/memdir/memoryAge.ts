@@ -51,4 +51,3 @@ export function memoryFreshnessNote(mtimeMs: number): string {
   if (!text) return ''
   return `<system-reminder>${text}</system-reminder>\n`
 }
-

@@ -1891,4 +1891,3 @@ export function validateFlags(
 
   return true
 }
-

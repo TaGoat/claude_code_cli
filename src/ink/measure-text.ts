@@ -45,4 +45,3 @@ function measureText(text: string, maxWidth: number): Output {
 }
 
 export default measureText
-

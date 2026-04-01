@@ -21,4 +21,3 @@ export function useMergedClients(
     [initialClients, mcpClients],
   )
 }
-

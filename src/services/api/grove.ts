@@ -355,4 +355,3 @@ export async function checkGroveForNonInteractive(): Promise<void> {
     }
   }
 }
-

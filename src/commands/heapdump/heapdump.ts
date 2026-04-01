@@ -15,5 +15,3 @@ export async function call(): Promise<{ type: 'text'; value: string }> {
     value: `${result.heapPath}\n${result.diagPath}`,
   }
 }
-
-

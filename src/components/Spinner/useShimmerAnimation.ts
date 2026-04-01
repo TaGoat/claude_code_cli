@@ -29,4 +29,3 @@ export function useShimmerAnimation(
   }
   return [ref, messageWidth + 10 - (cyclePosition % cycleLength)]
 }
-

@@ -121,4 +121,3 @@ export function settingSourceToScope(
 ): Exclude<PluginScope, 'managed'> {
   return SETTING_SOURCE_TO_SCOPE[source] as Exclude<PluginScope, 'managed'>
 }
-

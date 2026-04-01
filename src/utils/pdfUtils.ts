@@ -68,4 +68,3 @@ export function isPDFExtension(ext: string): boolean {
   const normalized = ext.startsWith('.') ? ext.slice(1) : ext
   return DOCUMENT_EXTENSIONS.has(normalized.toLowerCase())
 }
-

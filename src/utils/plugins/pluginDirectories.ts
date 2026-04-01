@@ -176,4 +176,3 @@ export async function deletePluginDataDir(pluginId: string): Promise<void> {
     )
   }
 }
-

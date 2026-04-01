@@ -69,4 +69,3 @@ export function logFileOperation(params: {
 
   logEvent('tengu_file_operation', metadata)
 }
-

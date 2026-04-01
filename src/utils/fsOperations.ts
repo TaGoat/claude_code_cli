@@ -768,4 +768,3 @@ export async function* readLinesReverse(
     await fileHandle.close()
   }
 }
-

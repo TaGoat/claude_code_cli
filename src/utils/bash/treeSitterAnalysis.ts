@@ -504,4 +504,3 @@ export function analyzeCommand(
     dangerousPatterns: extractDangerousPatterns(rootNode),
   }
 }
-

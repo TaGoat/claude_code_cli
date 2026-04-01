@@ -162,4 +162,3 @@ export function markClaudeAiMcpConnected(name: string): void {
 export function hasClaudeAiMcpEverConnected(name: string): boolean {
   return (getGlobalConfig().claudeAiMcpEverConnected ?? []).includes(name)
 }
-

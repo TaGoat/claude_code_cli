@@ -603,4 +603,3 @@ function addImageMetadataMessage(
   }
   return result
 }
-

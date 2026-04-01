@@ -11,4 +11,3 @@ export const SKILL_FILES: Record<string, string> = {
   'examples/cli.md': cliMd,
   'examples/server.md': serverMd,
 }
-

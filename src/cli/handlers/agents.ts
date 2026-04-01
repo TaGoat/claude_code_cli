@@ -68,5 +68,3 @@ export async function agentsHandler(): Promise<void> {
     console.log(lines.join('\n').trimEnd())
   }
 }
-
-

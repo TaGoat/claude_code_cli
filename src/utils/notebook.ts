@@ -222,4 +222,3 @@ export function parseCellId(cellId: string): number | undefined {
   }
   return undefined
 }
-

@@ -15,4 +15,3 @@ export function getSecureStorage(): SecureStorage {
 
   return plainTextStorage
 }
-

@@ -121,4 +121,3 @@ function tildify(p: string): string {
   if (p.startsWith(home + sep)) return '~' + p.slice(home.length)
   return p
 }
-

@@ -482,4 +482,3 @@ export function findOwnerChainAtRow(root: DOMElement, y: number): string[] {
     }
   }
 }
-

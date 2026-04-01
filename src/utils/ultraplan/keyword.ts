@@ -125,4 +125,3 @@ export function replaceUltraplanKeyword(text: string): string {
   if (!(before + after).trim()) return ''
   return before + trigger.word.slice('ultra'.length) + after
 }
-

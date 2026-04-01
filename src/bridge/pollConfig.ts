@@ -108,5 +108,3 @@ export function getPollIntervalConfig(): PollIntervalConfig {
   const parsed = pollIntervalConfigSchema().safeParse(raw)
   return parsed.success ? parsed.data : DEFAULT_POLL_CONFIG
 }
-
-

@@ -465,4 +465,3 @@ function buildNestedObject(
   }
   return { [key]: buildNestedObject(path.slice(1), value) }
 }
-

@@ -1006,5 +1006,3 @@ async function archiveSession(
       : 'error'
   }
 }
-
-

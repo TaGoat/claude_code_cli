@@ -677,4 +677,3 @@ async function codesignRipgrepIfNecessary() {
     logError(e)
   }
 }
-

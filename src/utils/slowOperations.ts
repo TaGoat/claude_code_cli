@@ -284,4 +284,3 @@ export function writeFileSync_DEPRECATED(
     fsWriteFileSync(filePath, data, options as WriteFileOptions)
   }
 }
-

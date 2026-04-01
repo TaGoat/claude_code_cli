@@ -488,4 +488,3 @@ export const NotebookEditTool = buildTool({
     }
   },
 } satisfies ToolDef<InputSchema, Output>)
-

@@ -367,4 +367,3 @@ export function getSimplePrompt(): string {
     ...(getCommitAndPRInstructions() ? ['', getCommitAndPRInstructions()] : []),
   ].join('\n')
 }
-

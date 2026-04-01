@@ -299,4 +299,3 @@ export function logQueryProfileReport(): void {
   if (!ENABLED) return
   logForDebugging(getQueryProfileReport())
 }
-

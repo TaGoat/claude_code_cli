@@ -989,4 +989,3 @@ export async function handleSpeculationAccept(
     return { queryRequired: true }
   }
 }
-

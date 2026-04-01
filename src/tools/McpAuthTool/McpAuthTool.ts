@@ -213,4 +213,3 @@ export function createMcpAuthTool(
     },
   } satisfies Tool<InputSchema, McpAuthOutput>
 }
-

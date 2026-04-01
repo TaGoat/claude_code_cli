@@ -505,4 +505,3 @@ export async function loadMemoryPrompt(): Promise<string | null> {
   }
   return null
 }
-

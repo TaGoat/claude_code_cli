@@ -200,4 +200,3 @@ export const SOURCES = [
  */
 export const CLAUDE_CODE_SETTINGS_SCHEMA_URL =
   'https://json.schemastore.org/claude-code-settings.json'
-

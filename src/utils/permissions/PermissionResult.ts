@@ -33,4 +33,3 @@ export function getRuleBehaviorDescription(
       return 'asked for confirmation for'
   }
 }
-

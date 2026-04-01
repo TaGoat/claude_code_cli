@@ -590,4 +590,3 @@ export async function detectEmptyMarketplaceReason({
   // This typically means all plugins are already installed
   return 'all-plugins-installed'
 }
-

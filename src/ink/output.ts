@@ -795,4 +795,3 @@ function writeLineToScreen(
 
   return offsetX
 }
-

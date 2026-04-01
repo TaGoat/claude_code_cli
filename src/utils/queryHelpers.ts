@@ -550,4 +550,3 @@ function extractCliName(command: string | undefined): string | undefined {
   }
   return undefined
 }
-

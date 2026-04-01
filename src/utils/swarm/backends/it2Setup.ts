@@ -243,4 +243,3 @@ export function setPreferTmuxOverIterm2(prefer: boolean): void {
 export function getPreferTmuxOverIterm2(): boolean {
   return getGlobalConfig().preferTmuxOverIterm2 === true
 }
-

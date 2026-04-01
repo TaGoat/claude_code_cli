@@ -36,4 +36,3 @@ export function formatTaskOutput(
 
   return { content: header + truncated, wasTruncated: true }
 }
-

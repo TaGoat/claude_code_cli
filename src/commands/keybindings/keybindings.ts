@@ -51,5 +51,3 @@ export async function call(): Promise<{ type: 'text'; value: string }> {
       : `Created ${keybindingsPath} with template. Opened in your editor.`,
   }
 }
-
-

@@ -80,4 +80,3 @@ export function isInclusiveMotion(key: string): boolean {
 export function isLinewiseMotion(key: string): boolean {
   return 'jkG'.includes(key) || key === 'gg'
 }
-

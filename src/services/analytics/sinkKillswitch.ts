@@ -23,4 +23,3 @@ export function isSinkKilled(sink: SinkName): boolean {
   // cached JSON null leaks through instead of falling back to {}.
   return config?.[sink] === true
 }
-

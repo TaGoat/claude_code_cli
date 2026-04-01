@@ -14,4 +14,3 @@ export function useTerminalFocus(): boolean {
   const { isTerminalFocused } = useContext(TerminalFocusContext)
   return isTerminalFocused
 }
-

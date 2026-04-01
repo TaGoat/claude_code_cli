@@ -82,4 +82,3 @@ export function withTimeout<T>(
     if (timer !== undefined) clearTimeout(timer)
   })
 }
-

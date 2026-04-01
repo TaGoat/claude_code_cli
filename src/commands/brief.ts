@@ -128,5 +128,3 @@ const brief = {
 } satisfies Command
 
 export default brief
-
-

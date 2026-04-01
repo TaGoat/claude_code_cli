@@ -239,4 +239,3 @@ export function useSSHSession({
     [isRemoteMode, sendMessage, cancelRequest, disconnect],
   )
 }
-

@@ -25,4 +25,3 @@ export function getManagedPluginNames(): Set<string> | null {
   }
   return names.size > 0 ? names : null
 }
-

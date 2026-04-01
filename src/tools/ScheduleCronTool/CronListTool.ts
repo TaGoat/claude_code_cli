@@ -95,4 +95,3 @@ export const CronListTool = buildTool({
   renderToolUseMessage: renderListToolUseMessage,
   renderToolResultMessage: renderListResultMessage,
 } satisfies ToolDef<InputSchema, ListOutput>)
-

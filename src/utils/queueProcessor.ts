@@ -93,4 +93,3 @@ export function processQueueIfReady({
 export function hasQueuedCommands(): boolean {
   return hasCommandsInQueue()
 }
-

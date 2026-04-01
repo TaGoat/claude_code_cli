@@ -20,5 +20,3 @@ const version = {
 } satisfies Command
 
 export default version
-
-

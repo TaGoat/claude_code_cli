@@ -23,4 +23,3 @@ export const OFFICIAL_MARKETPLACE_SOURCE = {
  * in the known_marketplaces.json file.
  */
 export const OFFICIAL_MARKETPLACE_NAME = 'claude-plugins-official'
-

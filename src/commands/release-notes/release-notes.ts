@@ -48,5 +48,3 @@ export async function call(): Promise<LocalCommandResult> {
     value: `See the full changelog at: ${CHANGELOG_URL}`,
   }
 }
-
-

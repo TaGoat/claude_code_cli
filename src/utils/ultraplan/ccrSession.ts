@@ -347,4 +347,3 @@ function extractApprovedPlan(content: ToolResultBlockParam['content']): string {
     `ExitPlanMode approved but tool_result has no "## Approved Plan:" marker — remote may have hit the empty-plan or isAgent branch. Content preview: ${text.slice(0, 200)}`,
   )
 }
-

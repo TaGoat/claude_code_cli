@@ -110,4 +110,3 @@ function truncateJson(value: unknown, maxLength: number): string {
     return '[unable to serialize]'
   }
 }
-

@@ -78,4 +78,3 @@ export function setPluginSettingsBase(
 export function clearPluginSettingsBase(): void {
   pluginSettingsBase = undefined
 }
-

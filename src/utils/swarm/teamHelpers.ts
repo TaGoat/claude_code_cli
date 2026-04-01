@@ -681,4 +681,3 @@ export async function cleanupTeamDirectories(teamName: string): Promise<void> {
     )
   }
 }
-

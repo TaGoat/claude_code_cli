@@ -431,4 +431,3 @@ export function cleanupStaleLocks(locksDir: string): number {
 
   return cleanedCount
 }
-

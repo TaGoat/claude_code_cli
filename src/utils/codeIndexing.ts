@@ -204,4 +204,3 @@ export function detectCodeIndexingFromMcpServerName(
 
   return undefined
 }
-

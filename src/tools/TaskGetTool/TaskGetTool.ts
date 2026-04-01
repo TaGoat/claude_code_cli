@@ -126,4 +126,3 @@ export const TaskGetTool = buildTool({
     }
   },
 } satisfies ToolDef<InputSchema, Output>)
-

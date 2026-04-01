@@ -269,4 +269,3 @@ export function sortMatchersByPriority(
     return a.localeCompare(b)
   })
 }
-

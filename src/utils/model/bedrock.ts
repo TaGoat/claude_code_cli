@@ -263,4 +263,3 @@ export function applyBedrockRegionPrefix(
   // Not a Bedrock model format, return as-is
   return modelId
 }
-

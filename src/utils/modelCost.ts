@@ -229,4 +229,3 @@ export function getModelPricingString(model: string): string | undefined {
   if (!costs) return undefined
   return formatModelPricing(costs)
 }
-

@@ -202,4 +202,3 @@ function longestCommonPrefix(strings: string[]): string {
 
   return words.slice(0, Math.max(1, commonWords)).join(' ')
 }
-

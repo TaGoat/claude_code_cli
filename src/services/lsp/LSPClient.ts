@@ -445,4 +445,3 @@ export function createLSPClient(
     },
   }
 }
-

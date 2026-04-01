@@ -1887,4 +1887,3 @@ export const FastModeStateSchema = lazySchema(() =>
       'Fast mode state: off, in cooldown after rate limit, or actively enabled.',
     ),
 )
-

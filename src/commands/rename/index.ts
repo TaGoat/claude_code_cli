@@ -10,5 +10,3 @@ const rename = {
 } satisfies Command
 
 export default rename
-
-

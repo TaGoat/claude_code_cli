@@ -602,4 +602,3 @@ export function classifyMcpToolForCollapse(
     isRead: READ_TOOLS.has(normalized),
   }
 }
-

@@ -59,5 +59,3 @@ export const call: LocalCommandCall = async (_args, context) => {
 function n(count: number, noun: string): string {
   return `${count} ${plural(count, noun)}`
 }
-
-

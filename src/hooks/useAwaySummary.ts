@@ -123,4 +123,3 @@ export function useAwaySummary(
     void generateRef.current?.()
   }, [isLoading])
 }
-

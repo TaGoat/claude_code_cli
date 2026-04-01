@@ -75,4 +75,3 @@ Set up task dependencies:
 {"taskId": "2", "addBlockedBy": ["1"]}
 \`\`\`
 `
-

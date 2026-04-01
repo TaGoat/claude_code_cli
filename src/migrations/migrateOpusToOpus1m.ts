@@ -41,4 +41,3 @@ export function migrateOpusToOpus1m(): void {
 
   logEvent('tengu_opus_to_opus1m_migration', {})
 }
-

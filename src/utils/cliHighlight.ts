@@ -52,4 +52,3 @@ export async function getLanguageName(file_path: string): Promise<string> {
   if (!ext) return 'unknown'
   return loadedGetLanguage?.(ext)?.name ?? 'unknown'
 }
-

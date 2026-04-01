@@ -70,4 +70,3 @@ export function isOfficialMcpUrl(normalizedUrl: string): boolean {
 export function resetOfficialMcpUrlsForTesting(): void {
   officialUrls = undefined
 }
-

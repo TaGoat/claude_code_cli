@@ -252,4 +252,3 @@ export async function initMagicDocs(): Promise<void> {
     registerPostSamplingHook(updateMagicDocs)
   }
 }
-

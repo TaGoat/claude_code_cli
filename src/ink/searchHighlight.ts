@@ -91,4 +91,3 @@ export function applySearchHighlight(
 
   return applied
 }
-

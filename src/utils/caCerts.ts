@@ -113,4 +113,3 @@ export function clearCACertsCache(): void {
   getCACertificates.cache.clear?.()
   logForDebugging('Cleared CA certificates cache')
 }
-

@@ -1293,5 +1293,3 @@ export async function* ask({
     setReadFileCache(engine.getReadFileState())
   }
 }
-
-

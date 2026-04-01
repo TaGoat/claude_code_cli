@@ -84,4 +84,3 @@ export const COMMON_INFO_ARGS = [
   'status',
   '?',
 ]
-

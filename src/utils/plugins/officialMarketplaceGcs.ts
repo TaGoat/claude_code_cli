@@ -214,4 +214,3 @@ export function classifyGcsError(e: unknown): string {
   if (/empty body/.test(msg)) return 'empty_latest'
   return 'other'
 }
-

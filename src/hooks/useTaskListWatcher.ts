@@ -219,4 +219,3 @@ function formatTaskAsPrompt(task: Task): string {
 
   return prompt
 }
-

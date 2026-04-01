@@ -96,4 +96,3 @@ export function clearOutputStyleCaches(): void {
   loadMarkdownFilesForSubdir.cache?.clear?.()
   clearPluginOutputStyleCache()
 }
-

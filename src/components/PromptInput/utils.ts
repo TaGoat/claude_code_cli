@@ -58,4 +58,3 @@ export function isNonSpacePrintable(input: string, key: Key): boolean {
   }
   return input.length > 0 && !/^\s/.test(input) && !input.startsWith('\x1b')
 }
-

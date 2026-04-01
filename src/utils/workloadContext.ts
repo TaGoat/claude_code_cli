@@ -55,4 +55,3 @@ export function runWithWorkload<T>(
 ): T {
   return workloadStorage.run({ workload }, fn)
 }
-

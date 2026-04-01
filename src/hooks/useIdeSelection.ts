@@ -148,4 +148,3 @@ export function useIdeSelection(
     // No cleanup needed as MCP clients manage their own lifecycle
   }, [mcpClients, onSelect])
 }
-

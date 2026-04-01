@@ -196,4 +196,3 @@ function findLastUnescapedChar(str: string, char: string): number {
   }
   return -1
 }
-

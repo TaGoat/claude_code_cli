@@ -130,4 +130,3 @@ export function useInputBuffer({
     clearBuffer,
   }
 }
-

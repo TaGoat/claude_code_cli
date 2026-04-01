@@ -214,4 +214,3 @@ export function getCommandName(cmd: CommandBase): string {
 export function isCommandEnabled(cmd: CommandBase): boolean {
   return cmd.isEnabled?.() ?? true
 }
-

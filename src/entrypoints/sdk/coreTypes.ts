@@ -60,4 +60,3 @@ export const EXIT_REASONS = [
   'other',
   'bypass_permissions_disabled',
 ] as const
-

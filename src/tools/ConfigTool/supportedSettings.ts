@@ -209,4 +209,3 @@ export function getPath(key: string): string[] {
   const config = SUPPORTED_SETTINGS[key]
   return config?.path ?? key.split('.')
 }
-

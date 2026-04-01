@@ -21,4 +21,3 @@ export function normalizeNameForMCP(name: string): string {
   }
   return normalized
 }
-

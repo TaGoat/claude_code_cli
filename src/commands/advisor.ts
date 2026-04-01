@@ -107,5 +107,3 @@ const advisor = {
 } satisfies Command
 
 export default advisor
-
-

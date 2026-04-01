@@ -12,4 +12,3 @@ export function isMacosOptionChar(
 ): char is keyof typeof MACOS_OPTION_SPECIAL_CHARS {
   return char in MACOS_OPTION_SPECIAL_CHARS
 }
-

@@ -131,4 +131,3 @@ export function resetHooksConfigSnapshot(): void {
   initialHooksConfig = null
   resetSdkInitState()
 }
-

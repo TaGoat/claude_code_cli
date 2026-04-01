@@ -11,4 +11,3 @@ const nohup: CommandSpec = {
 }
 
 export default nohup
-

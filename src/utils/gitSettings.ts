@@ -16,4 +16,3 @@ export function shouldIncludeGitInstructions(): boolean {
   if (isEnvDefinedFalsy(envVal)) return true
   return getInitialSettings().includeGitInstructions ?? true
 }
-

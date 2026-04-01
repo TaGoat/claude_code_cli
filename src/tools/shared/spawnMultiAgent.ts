@@ -1091,4 +1091,3 @@ export async function spawnTeammate(
 ): Promise<{ data: SpawnOutput }> {
   return handleSpawn(config, context)
 }
-

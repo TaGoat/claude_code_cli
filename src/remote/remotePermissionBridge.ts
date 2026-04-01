@@ -76,4 +76,3 @@ export function createToolStub(toolName: string): Tool {
     needsPermissions: () => true,
   } as unknown as Tool
 }
-

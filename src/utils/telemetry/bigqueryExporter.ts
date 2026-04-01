@@ -250,4 +250,3 @@ export class BigQueryMetricsExporter implements PushMetricExporter {
     return AggregationTemporality.DELTA
   }
 }
-

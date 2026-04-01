@@ -971,4 +971,3 @@ function resolveSkillName(
 
   return null
 }
-

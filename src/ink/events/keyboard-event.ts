@@ -49,4 +49,3 @@ function keyFromParsed(parsed: ParsedKey): string {
   // the parsed name. Browsers report e.key === 'ArrowDown'.
   return name || seq
 }
-

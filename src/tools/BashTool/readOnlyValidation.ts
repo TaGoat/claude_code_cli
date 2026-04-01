@@ -1988,4 +1988,3 @@ export function checkReadOnlyConstraints(
     message: 'Command is not read-only, requires further permission checks',
   }
 }
-

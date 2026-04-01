@@ -69,4 +69,3 @@ export function preconnectAnthropicApi(): void {
     signal: AbortSignal.timeout(10_000),
   }).catch(() => {})
 }
-

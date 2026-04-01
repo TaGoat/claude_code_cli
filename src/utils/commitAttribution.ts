@@ -959,4 +959,3 @@ export function incrementPromptCount(
   saveSnapshot(snapshot)
   return newAttribution
 }
-

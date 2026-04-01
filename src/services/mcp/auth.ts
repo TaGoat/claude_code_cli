@@ -2463,4 +2463,3 @@ function getScopeFromMetadata(
   }
   return undefined
 }
-

@@ -9,5 +9,3 @@ const ide = {
 } satisfies Command
 
 export default ide
-
-

@@ -274,4 +274,3 @@ export function CancelRequestHandler(props: CancelRequestHandlerProps): null {
 
   return null
 }
-

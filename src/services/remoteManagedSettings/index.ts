@@ -636,4 +636,3 @@ export function stopBackgroundPolling(): void {
     pollingIntervalId = null
   }
 }
-

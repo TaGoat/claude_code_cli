@@ -9,5 +9,3 @@ const permissions = {
 } satisfies Command
 
 export default permissions
-
-

@@ -153,4 +153,3 @@ export function useKickOffCheckAndDisableAutoModeIfNeeded(): void {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [mainLoopModel, mainLoopModelForSession, fastMode])
 }
-

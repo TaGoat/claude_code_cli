@@ -51,4 +51,3 @@ export async function getOauthProfileFromOauthToken(
     logError(error as Error)
   }
 }
-

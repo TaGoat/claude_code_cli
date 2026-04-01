@@ -92,4 +92,3 @@ export function getSystemLocaleLanguage(): string | undefined {
   }
   return cachedSystemLocaleLanguage
 }
-

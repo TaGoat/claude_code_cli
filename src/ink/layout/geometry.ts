@@ -95,4 +95,3 @@ export function clamp(value: number, min?: number, max?: number): number {
   if (max !== undefined && value > max) return max
   return value
 }
-

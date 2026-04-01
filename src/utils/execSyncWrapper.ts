@@ -36,4 +36,3 @@ export function execSync_DEPRECATED(
   using _ = slowLogging`execSync: ${command.slice(0, 100)}`
   return nodeExecSync(command, options)
 }
-

@@ -51,4 +51,3 @@ export function createIdleTimeoutManager(isIdle: () => boolean): {
     },
   }
 }
-

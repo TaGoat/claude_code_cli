@@ -29,4 +29,3 @@ export function useTerminalTitle(title: string | null): void {
     }
   }, [title, writeRaw])
 }
-

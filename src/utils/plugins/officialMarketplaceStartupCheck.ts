@@ -437,4 +437,3 @@ export async function checkAndInstallOfficialMarketplace(): Promise<OfficialMark
     }
   }
 }
-

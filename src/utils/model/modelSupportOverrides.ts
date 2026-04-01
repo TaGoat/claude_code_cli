@@ -48,4 +48,3 @@ export const get3PModelCapabilityOverride = memoize(
   },
   (model, capability) => `${model.toLowerCase()}:${capability}`,
 )
-

@@ -23,4 +23,3 @@ export function useFileHistorySnapshotInit(
     }
   }, [fileHistoryState, initialFileHistorySnapshots, onUpdateState])
 }
-

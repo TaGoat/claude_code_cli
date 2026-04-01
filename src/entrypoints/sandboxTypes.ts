@@ -154,4 +154,3 @@ export type SandboxFilesystemConfig = NonNullable<
 export type SandboxIgnoreViolations = NonNullable<
   SandboxSettings['ignoreViolations']
 >
-

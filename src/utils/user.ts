@@ -192,4 +192,3 @@ export const getGitEmail = memoize(async (): Promise<string | undefined> => {
     ? result.stdout.trim()
     : undefined
 })
-

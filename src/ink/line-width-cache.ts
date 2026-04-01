@@ -22,4 +22,3 @@ export function lineWidth(line: string): number {
   cache.set(line, width)
   return width
 }
-

@@ -771,4 +771,3 @@ class VirtualScreen {
     this.cursor.y += next.dy
   }
 }
-

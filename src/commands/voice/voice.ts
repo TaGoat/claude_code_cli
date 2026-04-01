@@ -148,5 +148,3 @@ export const call: LocalCommandCall = async () => {
     value: `Voice mode enabled. Hold ${key} to record.${langNote}`,
   }
 }
-
-

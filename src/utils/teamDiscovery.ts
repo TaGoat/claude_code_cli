@@ -79,4 +79,3 @@ export function getTeammateStatuses(teamName: string): TeammateStatus[] {
 }
 
 // Note: For time formatting, use formatRelativeTimeAgo from '../utils/format.js'
-

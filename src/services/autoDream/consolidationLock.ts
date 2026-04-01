@@ -138,4 +138,3 @@ export async function recordConsolidation(): Promise<void> {
     )
   }
 }
-

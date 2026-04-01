@@ -114,4 +114,3 @@ export function getLegacyApiKeyPrefetchResult(): {
 export function clearLegacyApiKeyPrefetch(): void {
   legacyApiKeyPrefetch = null
 }
-

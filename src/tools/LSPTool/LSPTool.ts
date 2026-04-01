@@ -858,4 +858,3 @@ function countUniqueFilesFromOutgoingCalls(
   const validUris = calls.map(call => call.to?.uri).filter(uri => uri)
   return new Set(validUris).size
 }
-

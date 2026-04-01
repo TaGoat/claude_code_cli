@@ -98,4 +98,3 @@ export function buildCombinedMemoryPrompt(
 
   return lines.join('\n')
 }
-

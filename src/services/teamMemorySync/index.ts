@@ -1254,4 +1254,3 @@ function logPush(
     }),
   })
 }
-

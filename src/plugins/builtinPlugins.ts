@@ -157,4 +157,3 @@ function skillDefinitionToCommand(definition: BundledSkillDefinition): Command {
     getPromptForCommand: definition.getPromptForCommand,
   }
 }
-

@@ -86,4 +86,3 @@ export function generateExtensionId(
     ? `${prefix}.${sanitizedAuthor}.${sanitizedName}`
     : `${sanitizedAuthor}.${sanitizedName}`
 }
-

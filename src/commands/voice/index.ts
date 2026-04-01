@@ -18,5 +18,3 @@ const voice = {
 } satisfies Command
 
 export default voice
-
-

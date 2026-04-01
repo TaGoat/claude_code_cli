@@ -134,4 +134,3 @@ export function isGeneratedFile(filePath: string): boolean {
 export function filterGeneratedFiles(files: string[]): string[] {
   return files.filter(file => !isGeneratedFile(file))
 }
-

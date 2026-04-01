@@ -104,4 +104,3 @@ export async function runComputerUseMcpServer(): Promise<void> {
   await server.connect(transport)
   logForDebugging('[Computer Use MCP] MCP server started')
 }
-

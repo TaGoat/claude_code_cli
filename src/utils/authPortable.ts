@@ -17,4 +17,3 @@ export async function maybeRemoveApiKeyFromMacOSKeychainThrows(): Promise<void> 
 export function normalizeApiKeyForConfig(apiKey: string): string {
   return apiKey.slice(-20)
 }
-

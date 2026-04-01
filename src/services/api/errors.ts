@@ -1205,4 +1205,3 @@ export function getErrorMessageIfRefusal(
     error: 'invalid_request',
   })
 }
-

@@ -82,4 +82,3 @@ export function parseRGB(colorStr: string): RGBColorType | null {
   RGB_CACHE.set(colorStr, result)
   return result
 }
-

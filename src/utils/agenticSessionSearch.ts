@@ -305,4 +305,3 @@ Find the sessions that are most relevant to this query.`
     return []
   }
 }
-

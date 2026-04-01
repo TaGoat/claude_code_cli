@@ -17,5 +17,3 @@ export async function call(
   const fileList = files.map(file => relative(getCwd(), file)).join('\n')
   return { type: 'text' as const, value: `Files in context:\n${fileList}` }
 }
-
-

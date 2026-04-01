@@ -46,4 +46,3 @@ export function migrateSonnet1mToSonnet45(): void {
     sonnet1m45MigrationComplete: true,
   }))
 }
-

@@ -260,5 +260,3 @@ export type BridgeLogger = {
   /** Force a re-render of the status display (for multi-session activity refresh). */
   refreshDisplay(): void
 }
-
-

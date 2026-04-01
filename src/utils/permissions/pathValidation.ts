@@ -483,4 +483,3 @@ export function validatePath(
     decisionReason: result.decisionReason,
   }
 }
-

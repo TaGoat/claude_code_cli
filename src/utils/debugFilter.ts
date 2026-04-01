@@ -155,4 +155,3 @@ export function shouldShowDebugMessage(
   const categories = extractDebugCategories(message)
   return shouldShowDebugCategories(categories, filter)
 }
-

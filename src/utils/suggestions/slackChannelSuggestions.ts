@@ -207,4 +207,3 @@ export function clearSlackChannelCache(): void {
   inflightQuery = null
   inflightPromise = null
 }
-

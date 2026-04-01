@@ -110,4 +110,3 @@ export async function submitTranscriptShare(
     return { success: false }
   }
 }
-

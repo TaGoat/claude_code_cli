@@ -263,4 +263,3 @@ export function filterInvalidPermissionRules(
   }
   return warnings
 }
-

@@ -65,4 +65,3 @@ export function useInterval(
     return clock.subscribe(onChange, false)
   }, [clock, intervalMs])
 }
-

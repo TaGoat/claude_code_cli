@@ -125,4 +125,3 @@ These instructions take priority over the general rules below. Make sure your up
 
   return substituteVariables(promptTemplate, variables)
 }
-

@@ -385,4 +385,3 @@ export type OrphanedPermission = {
   permissionResult: PermissionResult
   assistantMessage: AssistantMessage
 }
-

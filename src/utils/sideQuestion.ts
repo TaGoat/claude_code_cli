@@ -153,4 +153,3 @@ function extractSideQuestionResponse(messages: Message[]): string | null {
 
   return null
 }
-

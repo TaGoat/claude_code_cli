@@ -24,4 +24,3 @@ export function recordAutoModeDenial(denial: AutoModeDenial): void {
 export function getAutoModeDenials(): readonly AutoModeDenial[] {
   return DENIALS
 }
-

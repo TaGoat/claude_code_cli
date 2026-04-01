@@ -317,4 +317,3 @@ export const ENABLE_MODIFY_OTHER_KEYS = csi('>4;2m')
  * Disable xterm modifyOtherKeys (reset to default).
  */
 export const DISABLE_MODIFY_OTHER_KEYS = csi('>4m')
-

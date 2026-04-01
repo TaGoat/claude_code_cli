@@ -10,5 +10,3 @@ const heapDump = {
 } satisfies Command
 
 export default heapDump
-
-

@@ -346,4 +346,3 @@ export async function ensureDeepLinkProtocolRegistered(): Promise<void> {
     }
   }
 }
-

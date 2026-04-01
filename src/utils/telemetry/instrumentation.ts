@@ -823,4 +823,3 @@ function getOTLPExporterConfig() {
   config.httpAgentOptions = agentFactory
   return config
 }
-

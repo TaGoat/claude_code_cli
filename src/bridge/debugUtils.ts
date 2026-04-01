@@ -139,5 +139,3 @@ export function logBridgeSkip(
     ...(v2 !== undefined && { v2 }),
   })
 }
-
-

@@ -121,4 +121,3 @@ export function _resetStreamJsonStdoutGuardForTesting(): void {
   buffer = ''
   installed = false
 }
-

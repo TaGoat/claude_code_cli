@@ -176,4 +176,3 @@ export function consumeInvokingRequestId():
     invocationKind: context.invocationKind,
   }
 }
-

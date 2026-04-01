@@ -20,4 +20,3 @@ export function isPowerShellToolEnabled(): boolean {
     ? !isEnvDefinedFalsy(process.env.CLAUDE_CODE_USE_POWERSHELL_TOOL)
     : isEnvTruthy(process.env.CLAUDE_CODE_USE_POWERSHELL_TOOL)
 }
-

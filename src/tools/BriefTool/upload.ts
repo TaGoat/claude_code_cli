@@ -172,4 +172,3 @@ export async function uploadBriefAttachment(
   }
   return undefined
 }
-

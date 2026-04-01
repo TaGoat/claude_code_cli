@@ -521,4 +521,3 @@ export function logSuggestionSuppressed(
       }),
   })
 }
-

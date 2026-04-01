@@ -365,4 +365,3 @@ async function getCommandSubcommandPrefixImpl(
     subcommandPrefixes,
   }
 }
-

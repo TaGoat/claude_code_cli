@@ -3198,5 +3198,3 @@ function isValidSessionFacets(obj: unknown): obj is SessionFacets {
 }
 
 export default usageReport
-
-

@@ -2619,4 +2619,3 @@ export function commandHasAnyCd(command: string): boolean {
     isNormalizedCdCommand(subcmd.trim()),
   )
 }
-

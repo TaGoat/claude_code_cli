@@ -181,4 +181,3 @@ function formatBashError(e: unknown, pattern: string, inline = false): never {
   const formatted = inline ? `[Error: ${message}]` : `[Error]\n${message}`
   throw new MalformedCommandError(formatted)
 }
-

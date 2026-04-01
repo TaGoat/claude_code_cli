@@ -89,4 +89,3 @@ export default {
     isOptional: true,
   },
 } satisfies CommandSpec
-

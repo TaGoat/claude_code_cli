@@ -154,4 +154,3 @@ export type TeamMemorySyncUploadResult = {
    */
   serverReceivedEntries?: number
 }
-

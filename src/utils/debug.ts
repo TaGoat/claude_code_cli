@@ -266,4 +266,3 @@ export function logAntError(context: string, error: unknown): void {
     })
   }
 }
-

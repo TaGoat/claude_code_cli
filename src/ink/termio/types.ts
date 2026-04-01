@@ -234,4 +234,3 @@ export type Action =
   | { type: 'bell' }
   | { type: 'reset' } // Full terminal reset (ESC c)
   | { type: 'unknown'; sequence: string } // Unrecognized sequence
-

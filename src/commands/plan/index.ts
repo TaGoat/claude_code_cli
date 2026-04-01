@@ -9,5 +9,3 @@ const plan = {
 } satisfies Command
 
 export default plan
-
-

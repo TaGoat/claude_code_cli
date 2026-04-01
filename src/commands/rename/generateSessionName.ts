@@ -65,5 +65,3 @@ export async function generateSessionName(
     return null
   }
 }
-
-

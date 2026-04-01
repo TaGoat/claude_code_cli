@@ -157,4 +157,3 @@ function get3PFallbackSuggestion(model: string): string | undefined {
   }
   return undefined
 }
-

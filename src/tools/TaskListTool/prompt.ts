@@ -47,4 +47,3 @@ ${idDescription}
 Use TaskGet with a specific task ID to view full details including description and comments.
 ${teammateWorkflow}`
 }
-

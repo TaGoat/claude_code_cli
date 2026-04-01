@@ -189,4 +189,3 @@ function dispose(): void {
 export function resetFileChangedWatcherForTesting(): void {
   dispose()
 }
-

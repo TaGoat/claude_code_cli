@@ -30,4 +30,3 @@ If called outside an EnterWorktree session, the tool is a **no-op**: it reports 
 - Once exited, EnterWorktree can be called again to create a fresh worktree
 `
 }
-

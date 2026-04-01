@@ -996,5 +996,3 @@ export class CCRClient {
     this.deliveryUploader.close()
   }
 }
-
-

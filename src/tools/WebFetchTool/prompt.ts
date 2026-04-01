@@ -44,4 +44,3 @@ ${prompt}
 ${guidelines}
 `
 }
-

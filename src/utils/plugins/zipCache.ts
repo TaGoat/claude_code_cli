@@ -404,4 +404,3 @@ export function isMarketplaceSourceSupportedByZipCache(
 ): boolean {
   return ['github', 'git', 'url', 'settings'].includes(source.source)
 }
-

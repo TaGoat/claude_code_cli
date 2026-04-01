@@ -32,4 +32,3 @@ export function useBlink(
   const isVisible = Math.floor(time / intervalMs) % 2 === 0
   return [ref, isVisible]
 }
-

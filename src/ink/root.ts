@@ -182,4 +182,3 @@ const getInstance = (
 
   return instance
 }
-

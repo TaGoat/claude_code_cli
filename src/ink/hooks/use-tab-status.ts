@@ -70,4 +70,3 @@ export function useTabStatus(kind: TabStatusKind | null): void {
     writeRaw(wrapForMultiplexer(tabStatus(TAB_STATUS_PRESETS[kind])))
   }, [kind, writeRaw])
 }
-

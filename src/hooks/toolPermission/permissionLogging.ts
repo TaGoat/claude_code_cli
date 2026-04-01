@@ -236,4 +236,3 @@ function logPermissionDecision(
 
 export { isCodeEditingTool, buildCodeEditToolAttributes, logPermissionDecision }
 export type { PermissionLogContext, PermissionDecisionArgs }
-

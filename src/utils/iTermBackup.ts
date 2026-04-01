@@ -71,4 +71,3 @@ export async function checkAndRestoreITerm2Backup(): Promise<RestoreResult> {
     return { status: 'failed', backupPath }
   }
 }
-

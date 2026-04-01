@@ -30,4 +30,3 @@ export function getSettingsWithAllErrors(): SettingsWithErrors {
     errors: [...result.errors, ...mcpErrors],
   }
 }
-

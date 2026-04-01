@@ -580,4 +580,3 @@ export const createAndSaveSnapshot = async (
     }
   })
 }
-

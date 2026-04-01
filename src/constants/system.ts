@@ -93,4 +93,3 @@ export function getAttributionHeader(fingerprint: string): string {
   logForDebugging(`attribution header ${header}`)
   return header
 }
-

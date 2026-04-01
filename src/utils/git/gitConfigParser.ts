@@ -275,4 +275,3 @@ function isKeyChar(ch: string): boolean {
     ch === '-'
   )
 }
-

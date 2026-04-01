@@ -1743,4 +1743,3 @@ async function checkPermissionsAndCallTool(
     }
   }
 }
-

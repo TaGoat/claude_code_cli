@@ -5,5 +5,3 @@ export const call: LocalCommandCall = async (_, context) => {
   await clearConversation(context)
   return { type: 'text', value: '' }
 }
-
-

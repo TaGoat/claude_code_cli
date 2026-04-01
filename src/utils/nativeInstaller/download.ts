@@ -521,4 +521,3 @@ export async function downloadVersion(
 export { StallTimeoutError, MAX_DOWNLOAD_RETRIES }
 export const STALL_TIMEOUT_MS = DEFAULT_STALL_TIMEOUT_MS
 export const _downloadAndVerifyBinaryForTesting = downloadAndVerifyBinary
-

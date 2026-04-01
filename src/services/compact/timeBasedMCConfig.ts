@@ -41,4 +41,3 @@ export function getTimeBasedMCConfig(): TimeBasedMCConfig {
     TIME_BASED_MC_CONFIG_DEFAULTS,
   )
 }
-

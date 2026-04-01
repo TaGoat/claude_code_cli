@@ -528,5 +528,3 @@ export function createBridgeLogger(options: {
     },
   }
 }
-
-

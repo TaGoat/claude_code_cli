@@ -1107,4 +1107,3 @@ export function summarizeRecentActivities(
   }
   return undefined
 }
-

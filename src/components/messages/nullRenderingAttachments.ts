@@ -68,4 +68,3 @@ export function isNullRenderingAttachment(
     NULL_RENDERING_ATTACHMENT_TYPES.has(msg.attachment.type)
   )
 }
-

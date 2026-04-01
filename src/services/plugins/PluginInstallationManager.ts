@@ -182,4 +182,3 @@ export async function performBackgroundPluginInstallations(
     logError(error)
   }
 }
-

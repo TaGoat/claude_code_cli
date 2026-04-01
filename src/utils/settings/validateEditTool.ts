@@ -43,4 +43,3 @@ export function validateInputForSettingsFileEdit(
 
   return null
 }
-

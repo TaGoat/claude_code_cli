@@ -239,4 +239,3 @@ export async function getSkillInfo(cwd: string): Promise<{
     }
   }
 }
-

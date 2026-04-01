@@ -22,5 +22,3 @@ export const contextNonInteractive: Command = {
   },
   load: () => import('./context-noninteractive.js'),
 }
-
-

@@ -8,5 +8,3 @@ const stats = {
 } satisfies Command
 
 export default stats
-
-

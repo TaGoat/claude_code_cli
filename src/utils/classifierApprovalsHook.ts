@@ -15,4 +15,3 @@ export function useIsClassifierChecking(toolUseID: string): boolean {
     isClassifierChecking(toolUseID),
   )
 }
-

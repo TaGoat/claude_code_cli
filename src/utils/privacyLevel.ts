@@ -53,4 +53,3 @@ export function getEssentialTrafficOnlyReason(): string | null {
   }
   return null
 }
-

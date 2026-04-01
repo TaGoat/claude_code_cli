@@ -102,4 +102,3 @@ export async function cleanupOldPastes(cutoffDate: Date): Promise<void> {
     }
   }
 }
-

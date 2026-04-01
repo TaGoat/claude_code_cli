@@ -100,4 +100,3 @@ export function isPermissionRelatedResponse(messageText: string): boolean {
     !!isSandboxPermissionResponse(messageText)
   )
 }
-

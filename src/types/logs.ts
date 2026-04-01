@@ -328,4 +328,3 @@ export function sortLogs(logs: LogOption[]): LogOption[] {
     return b.created.getTime() - a.created.getTime()
   })
 }
-

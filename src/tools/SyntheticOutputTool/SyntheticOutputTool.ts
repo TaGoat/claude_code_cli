@@ -161,4 +161,3 @@ function buildSyntheticOutputTool(
     return { error: e instanceof Error ? e.message : String(e) }
   }
 }
-

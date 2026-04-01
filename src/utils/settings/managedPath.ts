@@ -32,4 +32,3 @@ export const getManagedFilePath = memoize(function (): string {
 export const getManagedSettingsDropInDir = memoize(function (): string {
   return join(getManagedFilePath(), 'managed-settings.d')
 })
-

@@ -74,4 +74,3 @@ export function killShellTasksForAgent(
   // harmlessly (no consumer matches a dead agentId).
   dequeueAllMatching(cmd => cmd.agentId === agentId)
 }
-

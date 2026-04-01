@@ -189,4 +189,3 @@ export function seedEarlyInput(text: string): void {
 export function isCapturingEarlyInput(): boolean {
   return isCapturing
 }
-

@@ -229,4 +229,3 @@ const renderBorder = (
 }
 
 export default renderBorder
-

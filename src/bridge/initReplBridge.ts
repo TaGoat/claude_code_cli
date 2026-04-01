@@ -567,5 +567,3 @@ function deriveTitle(raw: string): string | undefined {
     ? flat.slice(0, TITLE_MAX_LEN - 1) + '\u2026'
     : flat
 }
-
-

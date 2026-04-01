@@ -1815,4 +1815,3 @@ export function _setGlobalConfigCacheForTesting(
   globalConfigCache.config = config
   globalConfigCache.mtime = config ? Date.now() : 0
 }
-

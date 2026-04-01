@@ -555,4 +555,3 @@ function cmdQuote(arg: string): string {
   const escaped = stripped.replace(/(\\+)$/, '$1$1')
   return `"${escaped}"`
 }
-

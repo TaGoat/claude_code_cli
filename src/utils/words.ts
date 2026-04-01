@@ -798,4 +798,3 @@ export function generateShortWordSlug(): string {
   const noun = pickRandom(NOUNS)
   return `${adjective}-${noun}`
 }
-

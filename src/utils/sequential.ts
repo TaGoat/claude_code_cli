@@ -54,4 +54,3 @@ export function sequential<T extends unknown[], R>(
     })
   }
 }
-

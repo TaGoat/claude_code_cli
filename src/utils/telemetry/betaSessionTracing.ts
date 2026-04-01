@@ -489,4 +489,3 @@ export function addBetaToolResultAttributes(
     endAttributes['new_context_original_length'] = toolResult.length
   }
 }
-

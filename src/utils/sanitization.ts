@@ -89,4 +89,3 @@ export function recursivelySanitizeUnicode(value: unknown): unknown {
   // Return other primitive values (numbers, booleans, null, undefined) unchanged
   return value
 }
-

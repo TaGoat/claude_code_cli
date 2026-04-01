@@ -1139,4 +1139,3 @@ function getTransportDisplayName(type: string): string {
       return 'SSE'
   }
 }
-

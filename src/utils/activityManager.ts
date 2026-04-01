@@ -162,4 +162,3 @@ export class ActivityManager {
 
 // Export singleton instance
 export const activityManager = ActivityManager.getInstance()
-

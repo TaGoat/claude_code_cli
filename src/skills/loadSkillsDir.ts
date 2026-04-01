@@ -1084,4 +1084,3 @@ registerMCPSkillBuilders({
   createSkillCommand,
   parseSkillFrontmatterFields,
 })
-

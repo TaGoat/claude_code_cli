@@ -534,4 +534,3 @@ function handleInteractivePermission(
 
 export { handleInteractivePermission }
 export type { InteractivePermissionParams }
-

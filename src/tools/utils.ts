@@ -38,4 +38,3 @@ export function getToolUseIDFromParentMessage(
     ? toolUseBlock.id
     : undefined
 }
-

@@ -491,4 +491,3 @@ ${plan}`,
     }
   },
 } satisfies ToolDef<InputSchema, Output>)
-

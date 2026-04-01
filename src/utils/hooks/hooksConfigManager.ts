@@ -398,4 +398,3 @@ export function getMatcherMetadata(
 ): MatcherMetadata | undefined {
   return getHookEventMetadata(toolNames)[event].matcherMetadata
 }
-

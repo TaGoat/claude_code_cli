@@ -129,4 +129,3 @@ export function isOutputLineTruncated(content: string): boolean {
   // renderTruncatedContent's trimEnd() behavior.
   return pos < content.length
 }
-

@@ -164,4 +164,3 @@ export async function regenerateCompletionCache(): Promise<void> {
     `update: Regenerated ${shell.name} completion cache at ${shell.cacheFile}`,
   )
 }
-

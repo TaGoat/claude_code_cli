@@ -93,4 +93,3 @@ export const CronDeleteTool = buildTool({
   renderToolUseMessage: renderDeleteToolUseMessage,
   renderToolResultMessage: renderDeleteResultMessage,
 } satisfies ToolDef<InputSchema, DeleteOutput>)
-

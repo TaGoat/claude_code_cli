@@ -69,4 +69,3 @@ export function getAddDirExtraMarketplaces(): Record<
   }
   return result
 }
-

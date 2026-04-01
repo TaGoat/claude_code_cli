@@ -14,5 +14,3 @@ export async function call(): Promise<LocalCommandResult> {
     }
   }
 }
-
-

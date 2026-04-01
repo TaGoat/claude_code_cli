@@ -13,4 +13,3 @@ export function useMergedCommands(
     return initialCommands
   }, [initialCommands, mcpCommands])
 }
-

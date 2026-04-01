@@ -160,4 +160,3 @@ export function getShellType(): string {
   if (shellPath.includes('fish')) return 'fish'
   return 'unknown'
 }
-

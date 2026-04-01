@@ -119,4 +119,3 @@ export function initializeWarningHandler(): void {
   // Install the warning handler
   process.on('warning', warningHandler)
 }
-

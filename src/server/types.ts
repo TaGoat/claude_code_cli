@@ -55,4 +55,3 @@ export type SessionIndexEntry = {
 }
 
 export type SessionIndex = Record<string, SessionIndexEntry>
-

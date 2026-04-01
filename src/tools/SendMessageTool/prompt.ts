@@ -47,4 +47,3 @@ If you receive a JSON message with \`type: "shutdown_request"\` or \`type: "plan
 Approving shutdown terminates your process. Rejecting plan sends the teammate back to revise. Don't originate \`shutdown_request\` unless asked. Don't send structured JSON status messages — use TaskUpdate.
 `.trim()
 }
-

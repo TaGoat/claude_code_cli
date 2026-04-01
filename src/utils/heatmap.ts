@@ -196,4 +196,3 @@ function getHeatmapChar(intensity: number): string {
       return chalk.gray('·')
   }
 }
-

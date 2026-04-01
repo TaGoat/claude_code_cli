@@ -264,5 +264,3 @@ export function registerMcpXaaIdpCommand(mcp: Command): void {
       cliOk('XAA IdP connection cleared')
     })
 }
-
-

@@ -44,4 +44,3 @@ export function formatTimelineLine(
     : ''
   return `[+${formatMs(totalMs).padStart(totalPad)}ms] (+${formatMs(deltaMs).padStart(deltaPad)}ms) ${name}${extra}${memInfo}`
 }
-

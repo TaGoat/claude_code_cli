@@ -2590,4 +2590,3 @@ export async function bashCommandIsSafeAsync_DEPRECATED(
     message: 'Command passed all security checks',
   }
 }
-

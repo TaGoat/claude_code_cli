@@ -345,4 +345,3 @@ export function getHostPlatformForAnalytics(): Platform {
   }
   return env.platform
 }
-

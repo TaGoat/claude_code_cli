@@ -131,4 +131,3 @@ export function stopSessionActivity(reason: SessionActivityReason): void {
     startIdleTimer()
   }
 }
-

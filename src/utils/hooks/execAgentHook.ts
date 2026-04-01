@@ -337,4 +337,3 @@ When done, return your result using the ${SYNTHETIC_OUTPUT_TOOL_NAME} tool with:
     }
   }
 }
-

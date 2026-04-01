@@ -28,4 +28,3 @@ export function requireComputerUseInput(): ComputerUseInputAPI {
   }
   return (cached = input)
 }
-

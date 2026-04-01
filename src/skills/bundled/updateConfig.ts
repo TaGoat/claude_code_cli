@@ -473,4 +473,3 @@ export function registerUpdateConfigSkill(): void {
     },
   })
 }
-

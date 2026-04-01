@@ -117,4 +117,3 @@ export function useLogMessages(messages: Message[], ignore: boolean = false) {
     firstMessageUuidRef.current = currentFirstUuid
   }, [messages, ignore, teamContext?.teamName, teamContext?.selfAgentName])
 }
-

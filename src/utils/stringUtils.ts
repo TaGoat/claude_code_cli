@@ -233,4 +233,3 @@ export function truncateToLines(text: string, maxLines: number): string {
   }
   return lines.slice(0, maxLines).join('\n') + '…'
 }
-

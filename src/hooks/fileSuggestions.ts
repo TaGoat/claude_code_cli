@@ -809,4 +809,3 @@ export function applyFileSuggestion(
   const newCursorPos = startPos + suggestionText.length
   setCursorOffset(newCursorPos)
 }
-

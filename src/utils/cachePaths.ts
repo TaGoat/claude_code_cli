@@ -36,4 +36,3 @@ export const CACHE_PATHS = {
       `mcp-logs-${sanitizePath(serverName)}`,
     ),
 }
-

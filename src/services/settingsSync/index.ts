@@ -579,4 +579,3 @@ async function applyRemoteEntriesToLocal(
     appliedCount,
   })
 }
-

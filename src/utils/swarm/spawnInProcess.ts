@@ -326,4 +326,3 @@ export function killInProcessTeammate(
 
   return killed
 }
-

@@ -74,4 +74,3 @@ export function getRemoteSessionUrl(
   const baseUrl = getClaudeAiBaseUrl(compatId, ingressUrl)
   return `${baseUrl}/code/${compatId}`
 }
-

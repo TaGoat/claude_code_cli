@@ -285,4 +285,3 @@ export function setupPluginHookHotReload(): void {
     }
   })
 }
-

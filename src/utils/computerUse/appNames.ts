@@ -194,4 +194,3 @@ export function filterAppsForDescription(
     ...sanitizeAppNames(rest).filter(n => !alwaysSet.has(n)),
   ]
 }
-

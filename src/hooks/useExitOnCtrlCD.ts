@@ -93,4 +93,3 @@ export function useExitOnCtrlCD(
 
   return exitState
 }
-

@@ -709,5 +709,3 @@ function convertSSEUrlToPostUrl(sseUrl: URL): string {
   }
   return `${sseUrl.protocol}//${sseUrl.host}${pathname}`
 }
-
-

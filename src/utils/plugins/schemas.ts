@@ -1679,4 +1679,3 @@ export type KnownMarketplace = z.infer<
 export type KnownMarketplacesFile = z.infer<
   ReturnType<typeof KnownMarketplacesFileSchema>
 > // Record<string, KnownMarketplace>
-

@@ -488,4 +488,3 @@ function executeRepeatFind(
     ctx.setOffset(result)
   }
 }
-

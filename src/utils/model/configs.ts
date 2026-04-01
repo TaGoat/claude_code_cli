@@ -116,4 +116,3 @@ export const CANONICAL_ID_TO_KEY: Record<CanonicalModelId, ModelKey> =
       ([key, cfg]) => [cfg.firstParty, key],
     ),
   ) as Record<CanonicalModelId, ModelKey>
-

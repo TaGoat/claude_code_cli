@@ -174,4 +174,3 @@ function matchesDotGitPrefix(n: string): boolean {
   // for git~N as the first component.
   return /^git~\d+($|\/)/.test(n)
 }
-

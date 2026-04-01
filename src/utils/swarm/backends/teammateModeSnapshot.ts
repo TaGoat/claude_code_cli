@@ -85,4 +85,3 @@ export function getTeammateModeFromSnapshot(): TeammateMode {
   // Fallback to 'auto' if somehow still null (shouldn't happen, but safe)
   return initialTeammateMode ?? 'auto'
 }
-

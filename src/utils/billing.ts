@@ -76,4 +76,3 @@ export function hasClaudeAiBillingAccess(): boolean {
     ['admin', 'billing', 'owner', 'primary_owner'].includes(orgRole)
   )
 }
-

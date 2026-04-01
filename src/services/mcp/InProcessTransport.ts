@@ -61,4 +61,3 @@ export function createLinkedTransportPair(): [Transport, Transport] {
   b._setPeer(a)
   return [a, b]
 }
-

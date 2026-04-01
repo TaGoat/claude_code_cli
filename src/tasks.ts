@@ -37,4 +37,3 @@ export function getAllTasks(): Task[] {
 export function getTaskByType(type: TaskType): Task | undefined {
   return getAllTasks().find(t => t.type === type)
 }
-

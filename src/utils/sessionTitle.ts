@@ -127,4 +127,3 @@ export async function generateSessionTitle(
     return null
   }
 }
-

@@ -486,4 +486,3 @@ export const settingsChangeDetector = {
   notifyChange,
   resetForTesting,
 }
-

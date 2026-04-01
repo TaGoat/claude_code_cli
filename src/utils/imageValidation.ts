@@ -102,4 +102,3 @@ export function validateImagesForAPI(messages: unknown[]): void {
     throw new ImageSizeError(oversizedImages, API_IMAGE_MAX_BASE64_SIZE)
   }
 }
-

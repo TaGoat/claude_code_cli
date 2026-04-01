@@ -194,4 +194,3 @@ export async function startMCPServer(
 
   return await runServer()
 }
-

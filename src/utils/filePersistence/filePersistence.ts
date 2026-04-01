@@ -285,4 +285,3 @@ export function isFilePersistenceEnabled(): boolean {
   }
   return false
 }
-

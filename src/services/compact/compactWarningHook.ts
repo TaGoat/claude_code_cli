@@ -14,4 +14,3 @@ export function useCompactWarningSuppression(): boolean {
     compactWarningStore.getState,
   )
 }
-

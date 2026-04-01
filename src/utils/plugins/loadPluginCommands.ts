@@ -944,4 +944,3 @@ export const getPluginSkills = memoize(async (): Promise<Command[]> => {
 export function clearPluginSkillsCache(): void {
   getPluginSkills.cache?.clear?.()
 }
-

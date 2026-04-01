@@ -199,4 +199,3 @@ export function createStreamlinedTransformer(): (
 export function shouldIncludeInStreamlined(message: StdoutMessage): boolean {
   return message.type === 'assistant' || message.type === 'result'
 }
-

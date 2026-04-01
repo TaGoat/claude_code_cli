@@ -76,4 +76,3 @@ export async function findAvailablePort(): Promise<number> {
     throw new Error(`No available ports for OAuth redirect`)
   }
 }
-

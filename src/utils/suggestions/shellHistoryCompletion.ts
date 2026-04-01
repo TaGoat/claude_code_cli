@@ -117,4 +117,3 @@ export async function getShellHistoryCompletion(
 
   return null
 }
-

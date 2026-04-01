@@ -283,4 +283,3 @@ async function downloadCaBundle(
     return false
   }
 }
-

@@ -9,5 +9,3 @@ const exportCommand = {
 } satisfies Command
 
 export default exportCommand
-
-

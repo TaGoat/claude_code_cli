@@ -11,5 +11,3 @@ const installGitHubApp = {
 } satisfies Command
 
 export default installGitHubApp
-
-

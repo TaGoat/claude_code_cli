@@ -186,4 +186,3 @@ function markToolUseAsComplete(
     return next
   })
 }
-

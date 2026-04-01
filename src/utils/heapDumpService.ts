@@ -301,4 +301,3 @@ async function writeHeapSnapshot(filepath: string): Promise<void> {
   const heapSnapshotStream = getHeapSnapshot()
   await pipeline(heapSnapshotStream, writeStream)
 }
-

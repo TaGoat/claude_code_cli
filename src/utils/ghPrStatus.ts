@@ -104,4 +104,3 @@ export async function fetchPrStatus(): Promise<PrStatus | null> {
     return null
   }
 }
-

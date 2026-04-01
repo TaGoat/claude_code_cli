@@ -160,4 +160,3 @@ export function shouldEnableThinkingByDefault(): boolean {
   // Enable thinking by default unless explicitly disabled.
   return true
 }
-

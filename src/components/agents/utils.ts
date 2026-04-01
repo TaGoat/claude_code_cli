@@ -16,4 +16,3 @@ export function getAgentSourceDisplayName(
   }
   return capitalize(getSettingSourceName(source))
 }
-

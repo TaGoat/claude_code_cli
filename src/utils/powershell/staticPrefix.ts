@@ -314,4 +314,3 @@ function wordAlignedLCP(strings: string[]): string {
 
   return firstWords.slice(0, commonWordCount).join(' ')
 }
-

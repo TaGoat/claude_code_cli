@@ -25,4 +25,3 @@ export function createAgentId(label?: string): AgentId {
   const suffix = randomBytes(8).toString('hex')
   return (label ? `a${label}-${suffix}` : `a${suffix}`) as AgentId
 }
-

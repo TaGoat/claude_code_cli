@@ -35,4 +35,3 @@ export function useElapsedTime(
 
   return useSyncExternalStore(subscribe, get, get)
 }
-

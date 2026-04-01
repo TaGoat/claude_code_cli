@@ -575,4 +575,3 @@ export const GrepTool = buildTool({
     }
   },
 } satisfies ToolDef<InputSchema, Output>)
-

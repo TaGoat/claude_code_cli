@@ -153,4 +153,3 @@ function toThemeColor(
     ? AGENT_COLOR_TO_THEME_COLOR[colorName as AgentColorName]
     : fallback
 }
-

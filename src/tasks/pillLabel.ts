@@ -80,4 +80,3 @@ export function pillNeedsCta(tasks: BackgroundTaskState[]): boolean {
     t.ultraplanPhase !== undefined
   )
 }
-

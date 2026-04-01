@@ -94,4 +94,3 @@ export function buildSystemInitMessage(inputs: SystemInitInputs): SDKMessage {
   initMessage.fast_mode_state = getFastModeState(inputs.model, inputs.fastMode)
   return initMessage
 }
-

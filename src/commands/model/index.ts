@@ -14,5 +14,3 @@ export default {
   },
   load: () => import('./model.js'),
 } satisfies Command
-
-

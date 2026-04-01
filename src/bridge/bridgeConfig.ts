@@ -46,5 +46,3 @@ export function getBridgeAccessToken(): string | undefined {
 export function getBridgeBaseUrl(): string {
   return getBridgeBaseUrlOverride() ?? getOauthConfig().BASE_API_URL
 }
-
-

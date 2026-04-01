@@ -453,4 +453,3 @@ function cleanupConn(st: ConnState | undefined): void {
   }
   st.ws = undefined
 }
-

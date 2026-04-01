@@ -327,4 +327,3 @@ export function getDefaultEffortForModel(
   // should resolve to high effort level in the API.
   return undefined
 }
-

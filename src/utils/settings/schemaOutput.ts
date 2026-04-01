@@ -6,4 +6,3 @@ export function generateSettingsJSONSchema(): string {
   const jsonSchema = toJSONSchema(SettingsSchema(), { unrepresentable: 'any' })
   return jsonStringify(jsonSchema, null, 2)
 }
-

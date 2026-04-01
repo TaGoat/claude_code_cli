@@ -144,4 +144,3 @@ export function buildInheritedEnvVars(): string {
 
   return envVars.join(' ')
 }
-

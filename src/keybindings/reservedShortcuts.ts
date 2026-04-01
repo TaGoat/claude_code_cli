@@ -125,4 +125,3 @@ function normalizeStep(step: string): string {
   modifiers.sort()
   return [...modifiers, mainKey].join('+')
 }
-

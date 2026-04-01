@@ -74,4 +74,3 @@ export function useIdeAtMentioned(
     // No cleanup needed as MCP clients manage their own lifecycle
   }, [mcpClients, onAtMentioned])
 }
-

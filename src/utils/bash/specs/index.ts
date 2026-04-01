@@ -16,4 +16,3 @@ export default [
   time,
   srun,
 ] satisfies CommandSpec[]
-

@@ -13,4 +13,3 @@ export function shouldInferenceConfigCommandBeImmediate(): boolean {
     getFeatureValue_CACHED_MAY_BE_STALE('tengu_immediate_model_command', false)
   )
 }
-

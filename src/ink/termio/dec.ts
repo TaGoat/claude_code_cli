@@ -58,4 +58,3 @@ export const DISABLE_MOUSE_TRACKING =
   decreset(DEC.MOUSE_ANY) +
   decreset(DEC.MOUSE_BUTTON) +
   decreset(DEC.MOUSE_NORMAL)
-

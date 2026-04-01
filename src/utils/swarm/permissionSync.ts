@@ -926,4 +926,3 @@ export async function sendSandboxPermissionResponseViaMailbox(
     return false
   }
 }
-

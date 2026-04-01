@@ -70,4 +70,3 @@ export function getChicagoCoordinateMode(): CoordinateMode {
   frozenCoordinateMode ??= readConfig().coordinateMode
   return frozenCoordinateMode
 }
-

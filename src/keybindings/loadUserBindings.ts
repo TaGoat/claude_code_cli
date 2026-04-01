@@ -470,4 +470,3 @@ export function resetKeybindingLoaderForTesting(): void {
   }
   keybindingsChanged.clear()
 }
-

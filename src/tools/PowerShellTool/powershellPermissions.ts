@@ -1646,4 +1646,3 @@ export async function powershellToolHasPermission(
     suggestions: pendingSuggestions,
   }
 }
-

@@ -43,5 +43,3 @@ export function getTransportForUrl(
     throw new Error(`Unsupported protocol: ${url.protocol}`)
   }
 }
-
-

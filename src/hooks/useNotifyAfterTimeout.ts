@@ -63,4 +63,3 @@ export function useNotifyAfterTimeout(
     return () => clearInterval(timer)
   }, [message, notificationType, terminal])
 }
-

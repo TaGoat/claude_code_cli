@@ -175,4 +175,3 @@ export function getPatchForDisplay({
     lines: _.lines.map(unescapeFromDiff),
   }))
 }
-

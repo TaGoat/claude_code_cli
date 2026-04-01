@@ -538,4 +538,3 @@ function getUsername(): string {
     return process.env.USER || process.env.USERNAME || 'default'
   }
 }
-

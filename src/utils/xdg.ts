@@ -63,4 +63,3 @@ export function getUserBinDir(options?: XDGOptions): string {
   const { home } = resolveOptions(options)
   return join(home, '.local', 'bin')
 }
-

@@ -105,4 +105,3 @@ export async function sendCommandToPane(
   const backend = await getBackend()
   return backend.sendCommandToPane(paneId, command, useSwarmSocket)
 }
-

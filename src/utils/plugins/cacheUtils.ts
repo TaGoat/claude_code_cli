@@ -194,4 +194,3 @@ async function readSubdirs(dirPath: string): Promise<string[]> {
     return []
   }
 }
-

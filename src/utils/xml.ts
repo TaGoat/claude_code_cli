@@ -14,4 +14,3 @@ export function escapeXml(s: string): string {
 export function escapeXmlAttr(s: string): string {
   return escapeXml(s).replace(/"/g, '&quot;').replace(/'/g, '&apos;')
 }
-

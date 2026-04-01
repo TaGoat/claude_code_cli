@@ -73,4 +73,3 @@ export function getCronJitterConfig(): CronJitterConfig {
   const parsed = cronJitterConfigSchema().safeParse(raw)
   return parsed.success ? parsed.data : DEFAULT_CRON_JITTER_CONFIG
 }
-

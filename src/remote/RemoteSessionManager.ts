@@ -341,4 +341,3 @@ export function createRemoteSessionConfig(
     viewerOnly,
   }
 }
-

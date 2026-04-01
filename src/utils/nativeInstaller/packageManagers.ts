@@ -334,4 +334,3 @@ export const getPackageManager = memoize(async (): Promise<PackageManager> => {
 
   return 'unknown'
 })
-

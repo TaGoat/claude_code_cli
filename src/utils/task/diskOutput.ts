@@ -449,4 +449,3 @@ export function initTaskOutputAsSymlink(
     })(),
   )
 }
-

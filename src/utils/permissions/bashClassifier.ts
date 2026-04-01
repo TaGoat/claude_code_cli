@@ -59,4 +59,3 @@ export async function generateGenericDescription(
 ): Promise<string | null> {
   return specificDescription || null
 }
-

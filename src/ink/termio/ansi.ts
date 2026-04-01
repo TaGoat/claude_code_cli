@@ -73,4 +73,3 @@ export function isC0(byte: number): boolean {
 export function isEscFinal(byte: number): boolean {
   return byte >= 0x30 && byte <= 0x7e
 }
-

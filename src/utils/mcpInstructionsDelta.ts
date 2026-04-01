@@ -128,4 +128,3 @@ export function getMcpInstructionsDelta(
     removedNames: removed.sort(),
   }
 }
-

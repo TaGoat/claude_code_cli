@@ -79,4 +79,3 @@ export function getMacOSPlistPaths(): Array<{ path: string; label: string }> {
 
   return paths
 }
-

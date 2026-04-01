@@ -74,4 +74,3 @@ export function computeFingerprintFromMessages(
   const firstMessageText = extractFirstMessageText(messages)
   return computeFingerprint(firstMessageText, MACRO.VERSION)
 }
-

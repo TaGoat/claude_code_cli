@@ -275,4 +275,3 @@ export function trackGitOperations(
     getPrCounter()?.add(1)
   }
 }
-

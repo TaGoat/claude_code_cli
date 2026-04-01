@@ -184,4 +184,3 @@ function findBracketObject(
 
   return isInner ? { start: start + 1, end } : { start, end: end + 1 }
 }
-

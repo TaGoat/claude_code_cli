@@ -545,4 +545,3 @@ export function isSlashCommand(cmd: QueuedCommand): boolean {
     !cmd.skipSlashCommands
   )
 }
-

@@ -385,4 +385,3 @@ export function _resetWatcherStateForTesting(opts?: {
 export function _startFileWatcherForTesting(dir: string): Promise<void> {
   return startFileWatcher(dir)
 }
-

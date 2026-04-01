@@ -73,4 +73,3 @@ export const SKILL_FILES: Record<string, string> = {
   'typescript/claude-api/streaming.md': typescriptClaudeApiStreaming,
   'typescript/claude-api/tool-use.md': typescriptClaudeApiToolUse,
 }
-

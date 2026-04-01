@@ -309,4 +309,3 @@ export type TeammateExecutor = {
 export function isPaneBackend(type: BackendType): type is 'tmux' | 'iterm2' {
   return type === 'tmux' || type === 'iterm2'
 }
-

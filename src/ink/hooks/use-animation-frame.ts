@@ -55,4 +55,3 @@ export function useAnimationFrame(
 
   return [viewportRef, time]
 }
-

@@ -9,5 +9,3 @@ const releaseNotes: Command = {
 }
 
 export default releaseNotes
-
-

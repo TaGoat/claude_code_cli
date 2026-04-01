@@ -138,4 +138,3 @@ export function getSessionIngressAuthHeaders(): Record<string, string> {
 export function updateSessionIngressAuthToken(token: string): void {
   process.env.CLAUDE_CODE_SESSION_ACCESS_TOKEN = token
 }
-

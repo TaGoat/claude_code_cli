@@ -134,4 +134,3 @@ async function resolveCwd(action: {
   }
   return { cwd: homedir() }
 }
-

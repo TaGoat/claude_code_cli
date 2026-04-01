@@ -287,4 +287,3 @@ export function isAutoManagedMemoryPattern(pattern: string): boolean {
   }
   return false
 }
-

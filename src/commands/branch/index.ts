@@ -12,5 +12,3 @@ const branch = {
 } satisfies Command
 
 export default branch
-
-

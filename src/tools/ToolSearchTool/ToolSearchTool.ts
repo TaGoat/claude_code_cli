@@ -469,4 +469,3 @@ export const ToolSearchTool = buildTool({
     } as unknown as ToolResultBlockParam
   },
 } satisfies ToolDef<InputSchema, Output>)
-

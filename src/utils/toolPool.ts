@@ -77,4 +77,3 @@ export function mergeAndFilterTools(
 
   return tools
 }
-

@@ -228,4 +228,3 @@ function stripQuotes(text: string): string {
     ? text.slice(1, -1)
     : text
 }
-

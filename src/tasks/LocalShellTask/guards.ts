@@ -39,4 +39,3 @@ export function isLocalShellTask(task: unknown): task is LocalShellTaskState {
     task.type === 'local_bash'
   )
 }
-

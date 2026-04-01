@@ -31,4 +31,3 @@ export function getLocalMonthYear(): string {
     : new Date()
   return date.toLocaleString('en-US', { month: 'long', year: 'numeric' })
 }
-

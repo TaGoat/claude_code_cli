@@ -1756,5 +1756,3 @@ export function setPromptId(id: string | null): void {
   STATE.promptId = id
 }
 
-
-

@@ -78,4 +78,3 @@ export const DANGEROUS_BASH_PATTERNS: readonly string[] = [
       ]
     : []),
 ]
-

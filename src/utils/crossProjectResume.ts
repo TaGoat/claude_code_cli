@@ -73,4 +73,3 @@ export function checkCrossProjectResume(
     projectPath: log.projectPath,
   }
 }
-

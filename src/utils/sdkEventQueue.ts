@@ -132,4 +132,3 @@ export function emitTaskTerminatedSdk(
     usage: opts?.usage,
   })
 }
-

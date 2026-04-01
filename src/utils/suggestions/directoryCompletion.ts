@@ -261,4 +261,3 @@ export function clearPathCache(): void {
   directoryCache.clear()
   pathCache.clear()
 }
-

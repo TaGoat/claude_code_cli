@@ -716,4 +716,3 @@ export function normalizeToolInputForAPI<T extends Tool>(
       return input
   }
 }
-

@@ -168,4 +168,3 @@ export function buildDeepLink(action: DeepLinkAction): string {
   }
   return url.toString()
 }
-

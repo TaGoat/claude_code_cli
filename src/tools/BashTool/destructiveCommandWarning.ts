@@ -100,4 +100,3 @@ export function getDestructiveCommandWarning(command: string): string | null {
   }
   return null
 }
-

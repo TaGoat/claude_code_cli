@@ -1821,4 +1821,3 @@ function isDotnetSafe(args: string[]): boolean {
 
   return true
 }
-

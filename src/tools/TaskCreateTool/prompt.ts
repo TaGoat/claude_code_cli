@@ -54,4 +54,3 @@ All tasks are created with status \`pending\`.
 ${teammateTips}- Check TaskList first to avoid creating duplicate tasks
 `
 }
-

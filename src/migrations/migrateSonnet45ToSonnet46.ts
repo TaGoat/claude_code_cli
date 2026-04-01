@@ -65,4 +65,3 @@ export function migrateSonnet45ToSonnet46(): void {
     has_1m: has1m,
   })
 }
-

@@ -1266,4 +1266,3 @@ export async function migrateFromEnabledPlugins(): Promise<void> {
     )
   }
 }
-

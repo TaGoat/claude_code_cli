@@ -200,4 +200,3 @@ export function _resetForTesting(): void {
   loggedTmuxCcDisable = false
   checkedTmuxMouseHint = false
 }
-

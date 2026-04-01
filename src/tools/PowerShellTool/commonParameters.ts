@@ -28,4 +28,3 @@ export const COMMON_PARAMETERS: ReadonlySet<string> = new Set([
   ...COMMON_SWITCHES,
   ...COMMON_VALUE_PARAMS,
 ])
-

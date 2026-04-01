@@ -632,4 +632,3 @@ export async function getPluginMcpServers(
   // Add plugin scope
   return addPluginScopeToServers(resolvedServers, plugin.name, plugin.source)
 }
-

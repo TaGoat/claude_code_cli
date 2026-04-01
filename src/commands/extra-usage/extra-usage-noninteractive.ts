@@ -14,5 +14,3 @@ export async function call(): Promise<{ type: 'text'; value: string }> {
       : `Please visit ${result.url} to manage extra usage.`,
   }
 }
-
-

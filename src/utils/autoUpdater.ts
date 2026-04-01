@@ -559,4 +559,3 @@ async function removeClaudeAliasesFromShellConfigs(): Promise<void> {
     }
   }
 }
-

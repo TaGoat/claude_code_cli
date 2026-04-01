@@ -280,4 +280,3 @@ export function registerLoremIpsumSkill(): void {
     },
   })
 }
-

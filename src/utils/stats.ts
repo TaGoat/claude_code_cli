@@ -1059,4 +1059,3 @@ function getEmptyStats(): ClaudeCodeStats {
     totalSpeculationTimeSavedMs: 0,
   }
 }
-

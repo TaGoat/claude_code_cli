@@ -1142,4 +1142,3 @@ export function useVoice({
     handleKeyEvent,
   }
 }
-

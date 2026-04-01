@@ -11,4 +11,3 @@ export function extractBashCommentLabel(command: string): string | undefined {
   if (!firstLine.startsWith('#') || firstLine.startsWith('#!')) return undefined
   return firstLine.replace(/^#+\s*/, '') || undefined
 }
-

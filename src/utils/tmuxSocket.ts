@@ -425,4 +425,3 @@ export function resetSocketState(): void {
   tmuxAvailable = false
   tmuxToolUsed = false
 }
-

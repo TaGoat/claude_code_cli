@@ -164,4 +164,3 @@ export function isPreapprovedHost(hostname: string, pathname: string): boolean {
   }
   return false
 }
-

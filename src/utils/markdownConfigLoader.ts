@@ -598,4 +598,3 @@ async function loadMarkdownFiles(dir: string): Promise<
 
   return results.filter(_ => _ !== null)
 }
-

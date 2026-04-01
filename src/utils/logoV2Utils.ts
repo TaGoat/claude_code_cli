@@ -348,4 +348,3 @@ export function getRecentReleaseNotesSync(maxItems: number): string[] {
   // Return raw notes without filtering or premature truncation
   return allNotes.slice(0, maxItems)
 }
-

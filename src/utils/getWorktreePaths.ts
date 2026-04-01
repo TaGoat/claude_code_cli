@@ -68,4 +68,3 @@ export async function getWorktreePaths(cwd: string): Promise<string[]> {
 
   return currentWorktree ? [currentWorktree, ...otherWorktrees] : otherWorktrees
 }
-

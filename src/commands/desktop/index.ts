@@ -24,5 +24,3 @@ const desktop = {
 } satisfies Command
 
 export default desktop
-
-

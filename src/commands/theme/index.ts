@@ -8,5 +8,3 @@ const theme = {
 } satisfies Command
 
 export default theme
-
-

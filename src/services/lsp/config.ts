@@ -77,4 +77,3 @@ export async function getAllLspServers(): Promise<{
     servers: allServers,
   }
 }
-

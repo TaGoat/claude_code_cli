@@ -29,4 +29,3 @@ export function generateTempFilePath(
     : randomUUID()
   return join(tmpdir(), `${prefix}-${id}${extension}`)
 }
-

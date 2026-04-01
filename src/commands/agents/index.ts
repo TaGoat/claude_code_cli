@@ -8,5 +8,3 @@ const agents = {
 } satisfies Command
 
 export default agents
-
-

@@ -149,4 +149,3 @@ export const envDynamic = {
   getTerminalWithJetBrainsDetectionAsync,
   initJetBrainsDetection,
 }
-

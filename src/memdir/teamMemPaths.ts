@@ -290,4 +290,3 @@ export async function validateTeamMemKey(relativeKey: string): Promise<string> {
 export function isTeamMemFile(filePath: string): boolean {
   return isTeamMemoryEnabled() && isTeamMemPath(filePath)
 }
-

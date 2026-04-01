@@ -163,5 +163,3 @@ export async function shouldShowAppUpgradeMessage(): Promise<boolean> {
   const cfg = await getEnvLessBridgeConfig()
   return cfg.should_show_app_upgrade_message
 }
-
-

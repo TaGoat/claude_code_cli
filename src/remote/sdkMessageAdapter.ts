@@ -300,4 +300,3 @@ export function getResultText(msg: SDKResultMessage): string | null {
   }
   return null
 }
-

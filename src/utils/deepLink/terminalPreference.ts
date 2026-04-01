@@ -52,4 +52,3 @@ export function updateDeepLinkTerminalPreference(): void {
   saveGlobalConfig(current => ({ ...current, deepLinkTerminal: app }))
   logForDebugging(`Stored deep link terminal preference: ${app}`)
 }
-

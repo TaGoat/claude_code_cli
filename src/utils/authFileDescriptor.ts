@@ -194,4 +194,3 @@ export function getApiKeyFromFileDescriptor(): string | null {
     setCached: setApiKeyFromFd,
   })
 }
-

@@ -189,4 +189,3 @@ export function isJetBrainsPluginInstalledCachedSync(
 ): boolean {
   return pluginInstalledCache.get(ideType) ?? false
 }
-

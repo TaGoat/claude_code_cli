@@ -117,4 +117,3 @@ export function initializeTeammateContextFromSession(
     `[Reconnection] Initialized agent context from session for ${agentName} in team ${teamName}`,
   )
 }
-

@@ -924,4 +924,3 @@ export function isCurrentDirectoryBareGitRepo(): boolean {
   return false
 }
 /* eslint-enable custom-rules/no-sync-fs */
-

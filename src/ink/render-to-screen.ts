@@ -229,4 +229,3 @@ export function applyPositionedHighlight(
   }
   return true
 }
-
